@@ -3,6 +3,6 @@ This repo is created based on the book Learning PySpark and is used for self-lea
 
 Contains:
 
-  *Basic manipulation for DataFrame
-  *Basic manipulation for DataCleaning
-  *Basic use for MLlib and one example project
+  * Basic manipulation for DataFrame
+  * Basic manipulation for DataCleaning
+  * Basic use for MLlib and one example project
