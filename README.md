@@ -6,4 +6,4 @@ Contains:
   * Basic manipulation for DataFrame
   * Basic manipulation for DataCleaning
   * Basic use for MLlib and one example project
-  * change this to test
+  * FP Growth for frequent item mining
